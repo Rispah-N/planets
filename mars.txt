@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 An ill-considered change
 This line added to Wolfman's copy
+=======
+cold and dry, but everything is my favourite colour
+Hello 
+It's Mars
+
+Hello, this is Rita, from Mars
+>>>>>>> c3491be0958f6106eb8e87c41fa2b6153a8a638e
